@@ -1,0 +1,43 @@
+{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/posts/1/comments",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/comments?postId=2",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/comments?postId=2",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/posts",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/posts/1/comments",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/comments?postId=2",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}{
+"method": "GET",
+"url": "https://jsonplaceholder.typicode.com/posts/2",
+"status":200,
+"content-type": "application/json",
+"encoding":"utf-8"
+}
